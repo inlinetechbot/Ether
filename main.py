@@ -1,23 +1,12 @@
-# =============================================================================
-#  Ether Userbot System
+# █▓▒░ Alfa Userbot V2 Beta © ░▒▓█
 #
-#  Project Name:  Ether
-#  Author:        LearningBotsOfficial
+# ➤ Project    : Userbot
+# ➤ Developer  : AlfaBots
+# ➤ Support    : @AlfaBots_Support
+# ➤ Updates    : @AlfaBots_Update
 #
-#  Repository:    https://github.com/LearningBotsOfficial/Ether
-#
-#  Support:       https://t.me/Ether_Support
-#  Channel:       https://t.me/Ether_Update
-#
-#  License:       Open Source (Keep Credits)
-#
-#  IMPORTANT:
-#    • If you copy, fork, or reuse this project or any part of it,
-#      you MUST retain original credits.
-#    • Proper attribution to Ether project is required.
-#
-#  Thank you for respecting open-source development.
-# =============================================================================
+# Open Source Project
+# Do Not Remove Credits.
 
 import asyncio
 import sys
